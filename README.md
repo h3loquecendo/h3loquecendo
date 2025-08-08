@@ -13,8 +13,8 @@ SUA APRESENTAÇÃO AQUI..............
 # 🌐 Socials:
 <br>
  <div align="center">
-    <a href="https://seu instagram aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
-    <a href = "mailto:seuemailaqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+    <a href:https://_heloiisapaiiva target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href = "mailto:heloisavieira.vieira28@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
     <a href="https://SEU LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
   </div>
 <br>
@@ -55,7 +55,7 @@ SUA APRESENTAÇÃO AQUI..............
 </div>
 
 
-> _"“Frasee”"_ ⋆.˚
-> — **referencia**
+> _born to die_ ⋆.˚
+> — **lana del rey**
 
 </div>
